@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class Sum {
 
     public static void main(String[] args) {
         int array[] = {2, -9, 12, 33, 4, -2, 1234};
